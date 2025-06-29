@@ -48,14 +48,6 @@ This project is part of my Data Science internship at **Prodigy InfoTech**. The 
 
 ---
 
-## 🔍 Screenshots
-
-<p float="left">
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/plots/sample1.png" width="45%" />
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/plots/sample2.png" width="45%" />
-</p>
-
----
 
 ## ✅ Conclusion & Learnings
 Through this EDA project, I learned to:
@@ -64,6 +56,3 @@ Through this EDA project, I learned to:
 - Communicate findings through intuitive visualizations
 - Understand the significance of data distribution before modeling
 
----
-
-## 📁 Repository Structure
